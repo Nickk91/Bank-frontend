@@ -1,0 +1,24 @@
+form {
+  margin-top: 5px;
+  border: solid black 1px;
+  width: 50vmin;
+  height: 50vmin;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  align-items: center;
+}
+
+form button {
+  color: blue;
+
+  height: 30px;
+  width: 120px;
+}
+
+form label {
+  text-align: left;
+}
+form input {
+  width: 190px;
+}

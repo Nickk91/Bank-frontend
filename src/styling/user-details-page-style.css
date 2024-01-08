@@ -1,0 +1,13 @@
+.filter-form {
+  height: 40px;
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+}
+
+.user-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
