@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
-import HomePage from "./pages/homePage.jsx";
+import HomePage from "./pages/HomePage.jsx";
 import TranscationsPage from "./pages/TranscationsPage.jsx";
 import UserDetailsPage from "./pages/UserDetailsPage.jsx";
 import Header from "./components/Header.jsx";
